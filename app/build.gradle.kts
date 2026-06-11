@@ -51,6 +51,7 @@ dependencies {
     implementation("androidx.wear.compose:compose-navigation:1.3.1")
 
     implementation(platform("androidx.compose:compose-bom:2024.06.00"))
+    implementation("androidx.compose.foundation:foundation")
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.ui:ui-tooling-preview")
     implementation("androidx.wear:wear-tooling-preview:1.0.0")
